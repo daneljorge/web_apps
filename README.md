@@ -1,2 +1,2 @@
 # web_apps
-lesson about wep apps
+lesson about web apps
